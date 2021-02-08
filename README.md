@@ -2,7 +2,7 @@ A basic POSTS fetch-app which uses [JSON-placeholder-APIs](http://jsonplaceholde
 
 ## CODE:
 
-<p>vanilla JavaScript: ES6+ Features, Classes, Fetch, etc.</p>
+<p>vanilla JavaScript: ES6+ Features, LocalStorage, Classes, Fetch, etc.</p>
 
 ## STYLING:
 
